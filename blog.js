@@ -61,11 +61,9 @@
             //console.log("Double clicking worked");
             art.remove();
         });
-        
+      
         
         return art;
-
-
 
     }
 
